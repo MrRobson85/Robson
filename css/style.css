@@ -1,6 +1,7 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&family=Lato:ital,wght@1,600&display=swap');
-/* @import url(https://db.onlinewebfonts.com/c/9fb713fe839df972f056608904a4a8dc?family=Loft+W01+Bold+Italic); */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,700&family=Roboto:wght@400&display=swap');
+/* @import url(https://db.onlinewebfonts.com/c/9fb713fe839df972f056608904a4a8dc?family=Loft+W01+Bold+Italic); */ 
 @import url(https://db.onlinewebfonts.com/c/87297781ec1f7f4dd15f281bdf3ee9ca?family=Myriad+Pro+Semibold+Italic);
 
 /* CSS Variables */
@@ -9,7 +10,7 @@
     --dark-color: #1D1D1C;
     --light-color: #FFFFFF;
     --secondary-font: "Myriad Pro Semibold Italic";
-    --primary-font: 'Inter-MediumItalic', cursive;
+    --primary-font: 'Exo 2', sans-serif;
 }
 
 html {
