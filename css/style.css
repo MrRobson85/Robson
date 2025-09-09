@@ -44,6 +44,30 @@ body {
     color: #555;
 }
 
+.lead-text2 {
+    font-family: var(--secondary-font);
+    font-size: 1.2rem;
+    font-weight: 600;
+    /* font-style: italic; */
+    color: #555;
+}
+
+.lead-text3 {
+    font-family: var(--secondary-font);
+    font-size: 1.6rem;
+    font-weight: 600;
+    /* font-style: italic; */
+    color: #b01e36;
+}
+
+.lead-text {
+    font-family: var(--secondary-font);
+    font-size: 1rem;
+    font-weight: 600;
+    font-style: italic;
+    color: #555;
+}
+
 /* Header */
 header.bg-dark {
     background-color: var(--dark-color) !important;
