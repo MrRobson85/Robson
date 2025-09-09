@@ -60,11 +60,11 @@ body {
     color: #b01e36;
 }
 
-.lead-text {
+.lead-text4 {
     font-family: var(--secondary-font);
     font-size: 1rem;
     font-weight: 600;
-    font-style: italic;
+    /* font-style: italic; */
     color: #555;
 }
 
