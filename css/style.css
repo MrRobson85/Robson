@@ -45,7 +45,7 @@ body {
 }
 
 .lead-text2 {
-    font-family: var(--secondary-font);
+    font-family: var(--primary-font);
     font-size: 1.2rem;
     font-weight: 600;
     /* font-style: italic; */
